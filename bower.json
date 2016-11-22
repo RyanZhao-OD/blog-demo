@@ -1,0 +1,20 @@
+{
+  "name": "blog-demo",
+  "homepage": "https://github.com/ryanzhao1993/blog-demo",
+  "authors": [
+    "ryanzhao1993 <ryanzhao1993@qq.com>"
+  ],
+  "description": "博客学习",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
